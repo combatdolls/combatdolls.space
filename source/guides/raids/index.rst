@@ -1,5 +1,5 @@
-Raid Guides
-===========
+Raid & Dungeon Guides
+=====================
 
 .. toctree::
    :maxdepth: 2
@@ -12,3 +12,4 @@ Raid Guides
    kings-fall/index
    root/index
    vow/index
+   vesper/index
