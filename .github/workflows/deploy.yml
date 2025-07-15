@@ -28,7 +28,7 @@ jobs:
         with:
           pre-build-command: "pip install pipenv && pipenv install --deploy"
           docs-folder: "."
-          build-command: pipenv run sphinx-build -M html "source" "build" -a -E -j auto -v
+          build-command: pipenv run sphinx-build -M html "source" "build" -a -E -j auto
       - name: Upload Build
         uses: actions/upload-artifact@v4
         with:
