@@ -1,7 +1,7 @@
 set windows-powershell := true
 
 # SPHINXOPTS := "-a -E -v"
-SPHINXOPTS := ""
+SPHINXOPTS := "-j auto"
 SOURCEDIR  := "source"
 BUILDDIR   := "build"
 
