@@ -1,3 +1,4 @@
+==============
 Destiny Guides
 ==============
 
@@ -21,3 +22,11 @@ the systems of Destiny, general conceptual guides, or clan-specific practices.
    gambit
    red-borders
    dim-queries
+
+Favorite Tools
+==============
+
+* `DIM <https://app.destinyitemmanager.com/>`_
+* `light.gg <https://light.gg/>`_
+* `Vault Cleaner <https://destinyrecipes.com/vault>`_
+* `Braytech <https://bray.tech>`_
