@@ -1,5 +1,6 @@
 :hide-toc: True
 :front_page: True
+:og:title: Combat Dolls
 
 Combat Dolls is a queer-focused and PVE-focused Destiny clan.
 We pride ourselves on getting new players interested in high level content

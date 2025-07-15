@@ -7,13 +7,16 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Combat Dolls Clan'
-copyright = '2023, Combat Dolls Destiny Clan'
+copyright = '2025, Combat Dolls Destiny Clan'
 author = 'Waterfall of Lead, Bee Stings from Shadows'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    'sphinx_last_updated_by_git',
+    'sphinxext.opengraph',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -40,3 +43,6 @@ html_theme_options = {
         "font-stack": "'Josefin Sans', sans-serif",
     },
 }
+
+ogp_site_url = 'https://combatdolls.space/'
+ogp_use_first_image = True

@@ -1,7 +1,6 @@
 set windows-powershell := true
 
-# SPHINXOPTS := "-a -E -v"
-SPHINXOPTS := "-j auto"
+SPHINXOPTS := "-a -E -v -j auto"
 SOURCEDIR  := "source"
 BUILDDIR   := "build"
 
@@ -23,7 +22,7 @@ install:
 
 # Run sphinx autobuild against the docs.
 serve:
-  pipenv run sphinx-autobuild --port 0 --open-browser "{{SOURCEDIR}}" "{{BUILDDIR}}/html"
+  pipenv run sphinx-autobuild --port 0 --open-browser "{{SOURCEDIR}}" "{{BUILDDIR}}/html" {{SPHINXOPTS}}
 
 
 # Do a sphinx build

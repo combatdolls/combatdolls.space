@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 sphinx = "*"
 furo = "*"
+sphinx-last-updated-by-git = "*"
+sphinxext-opengraph = {extras = ["social-cards"], version = "*"}
 
 [dev-packages]
 sphinx-autobuild = "*"
