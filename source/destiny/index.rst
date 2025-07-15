@@ -23,6 +23,11 @@ the systems of Destiny, general conceptual guides, or clan-specific practices.
    red-borders
    dim-queries
 
+In-Game Clan
+============
+
+We have an `in-game clan <https://www.bungie.net/en/ClanV2?groupid=5003913>`_, please ask in Discord if you want to join.
+
 Favorite Tools
 ==============
 
