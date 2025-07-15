@@ -28,6 +28,6 @@ You don't need to be an exo; we can help with that.
    :titlesonly:
    :caption: Contents:
    
-   guides/index
+   destiny/index
    meta/index
 
