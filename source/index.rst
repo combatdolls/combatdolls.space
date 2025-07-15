@@ -2,12 +2,10 @@
 :front_page: True
 :og:title: Combat Dolls
 
-Combat Dolls is a queer-focused and PVE-focused Destiny clan.
-We pride ourselves on getting new players interested in high level content
-prepared and into our regular raid teams.
+Combat Dolls is a queer-focused gaming clan.
+We pride ourselves on helping new players and getting them to high-level content.
 
-We're open to all skill levels and will happily infodump about the mechanics of
-Destiny and encourage our members to always push to more challenging content.
+We're open to all skill levels and will happily infodump about mechanics and lore and encourage our members to always push to more challenging content.
 
 Before joining, please be aware we have and enforce a :doc:`meta/coc`.
 
@@ -29,5 +27,8 @@ You don't need to be an exo; we can help with that.
    :caption: Contents:
    
    destiny/index
+   monster-hunter/index
+   palia/index
+   other
    meta/index
 
